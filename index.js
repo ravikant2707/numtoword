@@ -75,7 +75,7 @@ n.slice(-1)?str+=once[n.slice(-1)]:str+="";}
 console.log(str);
 }
 }
-con(056124578);
+con(56124578);
 
 
  
